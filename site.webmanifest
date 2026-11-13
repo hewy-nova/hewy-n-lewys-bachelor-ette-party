@@ -1,0 +1,12 @@
+{
+  "name": "Matt & Louise's Bachelor(ette) Party",
+  "short_name": "M&L Party",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#1d0f26",
+  "theme_color": "#1d0f26"
+}
